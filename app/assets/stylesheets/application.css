@@ -8,3 +8,14 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+ body {
+  padding: 10%;
+ }
+
+ h1 {
+  padding-bottom: 40px;
+ }
+
+ form {
+  width: 50%;
+ }
